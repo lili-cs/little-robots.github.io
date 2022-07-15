@@ -1,4 +1,5 @@
 ## Welcome to GitHub Pages
+![Logo](little-robots.github.io/docs/assets/img/little robots logo.png)
 
 You can use the [editor on GitHub](https://github.com/lili-cs/little-robots.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
