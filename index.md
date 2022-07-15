@@ -1,5 +1,5 @@
-# Welcome to Little Robots
 ![Logo](docs/assets/img/little-robots-logo.png)
+# Welcome to Little Robots
 
 
 ## Program Goals
