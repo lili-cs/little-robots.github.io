@@ -1,6 +1,4 @@
 ![Logo](docs/assets/img/little-robots-logo.png)
-# Welcome to Little Robots!
-
 
 ## Program Goals
 Students will gain cross-disciplinary knowledge and skills including computer science and engineering, mechanical science and engineering with user interface and model design, time and project management strategies, teamwork, etc. Students will learn how to explain their project workflow with corresponding mechanical and coding knowledge involved. Students will
