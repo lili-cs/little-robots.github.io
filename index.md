@@ -120,9 +120,8 @@ Complete the creative design and development of robots, and program the robots t
 ## Photos
 
 ## Videos
-<iframe width="1904" height="733" src="https://www.youtube.com/embed/Z5lcu4LoUVU" title="Robotics Level 3 Projects (Partial)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<video src="https://youtu.be/Z5lcu4LoUVU" data-canonical-src="https://user-images.githubusercontent.com/169707/126715420-991ad821-9ac8-4b66-b79e-e0966e0f3a89.mp4" controls="controls" muted="muted" class="d-block rounded-bottom-2 width-fit" style="max-height:640px;">
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ### Contact
 littlerobots888@gmail.com
