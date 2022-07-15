@@ -6,7 +6,7 @@ work cooperatively with their teammates to finish projects.
 
 Students will be able to apply critical thinking and analytical thinking skills to interpret their projects. Students will be able to demonstrate both written and oral presentation skills to communicate scientific knowledge involved in their projects. Students will improve their creative thinking skills while having fun.
 
-## 8 Levels
+## Leveling Up
 
 There are eight levels included in this course. Each level is defined in terms of knowledge, skills as well as  responsibility and teamwork.
 
@@ -36,7 +36,8 @@ Understand the basic concept of force and simple mechanical parts.
 Learn knowledge of power transmission.
 Make more complicated models based on the elements of mechanical parts such as: gears, cams, belts, chains, etc.
 
-### Level 3 - Junior Engineer
+### Level 3 
+#### Level 3A - For students who wants to learn basic Lego robot building and coding skills
 Description: Students learn programming logic through graphical coding
 Recommended age: 7+ 
 Prerequisite: None
@@ -48,8 +49,11 @@ Skills
 Design program structure and execute logical operations.
 Draw flow charts, Build a simple robot model and program to control it. Develop critical thinking.
 
+#### Level 3B - For students who have solid lego robot building and coding skills and are ready to create their own projects based on mechanical principles (Lego Robots 
+
  
-### Level 4 - Senior Engineer
+### Level 4 
+#### Level 4A - Scratch
 Description: Students control robots proficiently by coding graphically 
 Recommended age: 8+
 Prerequisite: Level 3
@@ -60,8 +64,12 @@ Knowledge
 Skills
 Master the basic principles of the mechanical mechanism and understand commonly used electrical parameters. 
 Skilled in programming software to complete simple programming tasks.
+
+#### Level 4B - Scratch and Lego Robots
  
-### Level 5 - Junior Creator
+ 
+### Level 5 
+#### Level 5A - Basic Arduino
 Description: Students learn text-based coding and electronic circuit 
 Recommended age: 10+
 Prerequisite: Level 4
@@ -74,9 +82,9 @@ Understand the basic knowledge of electricity and computer hardwares. Basic prog
 
 
 Build a complete robot system and control it through advanced programming languages.
+#### Level 5B - Big Arduino Projects
 
-
-### Level 6 - Senior Creator
+### Level 6 - Artifical Intelligence Models (software side)
 Description: Students learn wireless technology and control
 Recommended age: 10+
 Prerequisite: Level 5
@@ -89,7 +97,7 @@ Master the principle of wireless connection. Understand advantages and disadvant
 Use wireless technology to remotely control the robot.
 
 
-### Level 7 - Junior Roboticist
+### Level 7 - Artifical Intelligence on Embedded Devices
 Description: Students learn environment recognition and artificial intelligence
 Recommended age: 10+
 Prerequisite: Level 6
@@ -102,7 +110,7 @@ Understand sensors when used in visual recognition and sound recognition. Know w
 Make a robot that recognizes the external environment elements. Familiar with sensor communication through coding.
 
 
-### Level 8 - Senior Roboticist
+### Level 8 - Real Robots
 Description: Innovation, comprehensive application
 Recommended age: 10+
 Prerequisite: Level 7
